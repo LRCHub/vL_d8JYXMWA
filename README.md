@@ -1,63 +1,63 @@
 # Ave Mujica – 顔
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-事を/事を拗らせてるの/せてるの
-アルレッキーノ コルセットを調整してよ
-ちょいと顎上げたりして 鏡の私
-同じに見える違う顔
-化粧映え 誰 double 化け charmin' チェーミン
-チューミン
-ハート見せないわ ほんとんとこ
-平気/平気で そう 涙も流してみせましょ
-正気かしら? 正気よ
-偽る日々滑らかに 無関心でいるために (1-2,)
-i am a pretender up, up, up, up, shake, shake,
-shake it up
-うしろ姿 なじるあなた (hey!)
-the pretender up, up, up, up, shake, shake,
-shake it up, it up
-(あらら)
-バカね さよなら loser, loser, loser (bye-bye and
-bye)
-私 make up, make up, make up, babe
-あなたを跨ぐ
-hey!
-うそ/うそ七色うそ笑顔ならポンピンビート
-くすぐるこのこころ
-やり過ごすためのアルゴリズム 冷淡に
-でも何か足りない わからない/ないけれど
-ah, もはや慣れたわ (cool-cool,)
-i am a pretender up, up, up, up, shake, shake,
-shake it up
-うしろ姿 なじるあなた (hey!)
-the pretender up, up, up, up, shake, shake,
-shake it up, it up
-(あらら)
-バカね さよなら loser, loser, loser
-↑
-え? (あらら) え? (あらら) え? え?
-まあ まあ まあ
-とかなんとか言っちゃってさ 空虚な自己防衛さ
-(hate)
-you're just a pretender あっぷ あっぷ あっぷ
-あっぷ shake,
-shake, shake it up
-どこまでそう気取るのかしら (hate!)
-嫌 pretender あっぷ あっぷ あっぷ あっぷ shake,
-shake,
-shake it up, it up, (あらら)
-いつまでやるの
-閉 pretender あっぷ あっぷ あっぷ あっぷ shake,
-shake,
-shake it up
-誤魔化さずにほら向き合えば (hate!)
-嫌 pretender あっぷ あっぷ あっぷ あっぷ shake,
-shake,
-shake it up, it up (あらら)
-こっちがほんもの 勝者 勝者 勝者 (bye-bye and
-bye)
-i'm a pretender hater, hater, hate the fake
+```lrc
+[00:29.14] 事を/事を拗らせてるの/せてるの
+[00:33.34] アルレッキーノ コルセットを調整してよ
+[00:37.05] ちょいと顎上げたりして 鏡の私
+[00:40.86] 同じに見える違う顔
+[00:43.95] 化粧映え 誰 double 化け charmin' チェーミン
+[00:47.00] チューミン
+[00:47.89] ハート見せないわ ほんとんとこ
+[00:50.76] 平気/平気で そう 涙も流してみせましょ
+[00:54.07] 正気かしら? 正気よ
+[01:11.04] 偽る日々滑らかに 無関心でいるために (1-2,)
+[01:14.36] i am a pretender up, up, up, up, shake, shake,
+[01:15.45] shake it up
+[01:18.59] うしろ姿 なじるあなた (hey!)
+[01:21.20] the pretender up, up, up, up, shake, shake,
+[01:22.88] shake it up, it up
+[01:23.47] (あらら)
+[01:28.98] バカね さよなら loser, loser, loser (bye-bye and
+[01:29.32] bye)
+[01:32.42] 私 make up, make up, make up, babe
+[01:37.36] あなたを跨ぐ
+[01:52.66] hey!
+[01:56.90] うそ/うそ七色うそ笑顔ならポンピンビート
+[01:59.44] くすぐるこのこころ
+[02:02.60] やり過ごすためのアルゴリズム 冷淡に
+[02:07.63] でも何か足りない わからない/ないけれど
+[02:13.01] ah, もはや慣れたわ (cool-cool,)
+[02:16.06] i am a pretender up, up, up, up, shake, shake,
+[02:16.97] shake it up
+[02:20.36] うしろ姿 なじるあなた (hey!)
+[02:22.94] the pretender up, up, up, up, shake, shake,
+[02:24.37] shake it up, it up
+[02:24.93] (あらら)
+[02:35.24] バカね さよなら loser, loser, loser
+[02:36.53] ↑
+[02:44.98] え? (あらら) え? (あらら) え? え?
+[02:47.91] まあ まあ まあ
+[03:01.00] とかなんとか言っちゃってさ 空虚な自己防衛さ
+[03:01.88] (hate)
+[03:03.97] you're just a pretender あっぷ あっぷ あっぷ
+[03:05.14] あっぷ shake,
+[03:06.06] shake, shake it up
+[03:09.02] どこまでそう気取るのかしら (hate!)
+[03:11.47] 嫌 pretender あっぷ あっぷ あっぷ あっぷ shake,
+[03:11.93] shake,
+[03:14.44] shake it up, it up, (あらら)
+[03:16.30] いつまでやるの
+[03:18.43] 閉 pretender あっぷ あっぷ あっぷ あっぷ shake,
+[03:18.75] shake,
+[03:19.82] shake it up
+[03:23.01] 誤魔化さずにほら向き合えば (hate!)
+[03:25.28] 嫌 pretender あっぷ あっぷ あっぷ あっぷ shake,
+[03:25.62] shake,
+[03:27.57] shake it up, it up (あらら)
+[03:32.87] こっちがほんもの 勝者 勝者 勝者 (bye-bye and
+[03:33.25] bye)
+[03:36.69] i'm a pretender hater, hater, hate the fake
 鏡の中のおまえを暴く
 ```
